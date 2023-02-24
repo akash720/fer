@@ -65,7 +65,6 @@ INSTALL_REQUIRES = [
     "keras>=2.0.0",
     "pandas",
     "requests",
-    "facenet-pytorch",
     "tqdm",
 ]
 
